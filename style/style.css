@@ -2,6 +2,13 @@ body{
 	background: rgb(10, 54, 10);
 	color: rgb(255, 255, 255);
 }
+header img{
+	height: 50px;
+	width: 100px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
 header h1 {
 	text-align: center;
 }
@@ -118,4 +125,9 @@ header h1 {
 .reference p{
 	padding-left: 50px;
 	
+}
+.reference a{
+	text-decoration: none;
+	margin-left: 50px;
+	color: white;
 }
