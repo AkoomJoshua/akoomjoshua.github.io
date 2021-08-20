@@ -1,0 +1,121 @@
+body{
+	background: rgb(10, 54, 10);
+	color: rgb(255, 255, 255);
+}
+header h1 {
+	text-align: center;
+}
+.border{
+	border: 2px solid rgb(255, 255, 255);
+}
+.pic-container{
+	height: 500px;
+	width: 49%;
+	float: left;
+	border: 2px solid rgb(255, 255, 255);
+}
+.portrait{
+	height: 400px;
+	width: 300px;
+	margin-left: 150px;
+	margin-top: 50px;
+	border: 2px solid rgb(255, 255, 255);
+}
+.portrait img {
+	height: 350px;
+	width: 300px;
+}
+.portrait h2{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.profile{
+	height: 200px;
+	width: 50.4%;
+	float: right;
+	border: 2px solid rgb(255, 255, 255);
+
+}
+.profile h2{
+	padding-left: 50px;
+	padding-bottom: 25px;
+}
+.profile blockquote {
+	padding-left: 50px;
+	padding-bottom:50px;
+	width: 65%;
+}
+.experience{
+	height: 550px;
+	width: 50.4%;
+	float: right;
+	border: 2px solid rgb(255, 255, 255);
+}
+.experience h2, h3{
+	padding-left: 50px;
+	padding-top: 25px;
+}
+.experience p{
+	padding-left: 50px;
+}
+.education{
+	height: 500px;
+	width: 49%;
+	border: 2px solid rgb(255, 255, 255);
+	clear: left;
+	float: left;
+}
+.education h2{
+	padding-left: 50px;
+	padding-top: 25px;
+}
+.education p{
+	padding-left: 50px;
+}
+.education h3{
+	padding-left: 50px;
+}
+.skills{
+	height: 247px;
+	width: 50.4%;
+	float: right;
+	border: 2px solid rgb(255, 255, 255);
+}
+.skills h2{
+	padding-left: 50px;
+	padding-top: 25px;
+}
+.skills p{
+	width: 50%;
+	padding-left: 50px;
+}
+.reach{
+	width: 49%;
+	height:350px;
+	clear: left;
+	float: left;
+	border: 2px solid rgb(255, 255, 255);
+}
+.reference {
+	width: 50.4%;
+	height: 350px;
+	float: right;
+	border: 2px solid rgb(255, 255, 255);
+}
+.reach p{
+	text-align: center;
+	padding-bottom: 10px;
+}
+.reach h2{
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 25px;
+}
+.reference h2{
+	padding-left: 50px;
+	padding-top: 25px;
+}
+.reference p{
+	padding-left: 50px;
+	
+}
